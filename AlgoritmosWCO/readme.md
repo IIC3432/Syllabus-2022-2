@@ -3,7 +3,7 @@ Esta carpeta contiene instrucciones y material para el primer módulo del curso,
 ## Lectura para complementar la clase 
 - Papaer sobre [Algoritmo de Yannakakis dinámico](https://www.martinugarte.com/media/pdfs/main_pDxeVno.pdf), con una buena descripción del algoritmo de Yannakakis original. [Paper original de Yannakakis](https://www.researchgate.net/profile/Mihalis-Yannakakis/publication/200034379_Algorithms_for_Acyclic_Database_Schemes/links/5745c2a708ae9f741b430b62/Algorithms-for-Acyclic-Database-Schemes.pdf).
 - [Paper con la cota AGM](https://www.cs.upc.edu/~atserias/papers/joins/queries-revised.pdf), y también un mejor [paper introdutorio, por Grohe](https://link.springer.com/chapter/10.1007/978-3-642-41660-6_17). Este último está bajo paywall, pero dentro de Eduroam debería bajarse bien. 
-- Buena [introducción a algoritmos WCO] (https://sigmodrecord.org/publications/sigmodRecord/1312/03.principles.ngo.pdf) y el algoritmo de [Leapfrog trie-join](https://arxiv.org/pdf/1210.0481.pdf)
+- Buena [introducci'on a algoritmos WCO](https://sigmodrecord.org/publications/sigmodRecord/1312/03.principles.ngo.pdf) y el algoritmo de [Leapfrog trie-join](https://arxiv.org/pdf/1210.0481.pdf)
 
 ## Papers para leer y presentar (en progreso)
 - Discusión sobre grafos como buen caso de uso para estos algoritmos [link](https://arxiv.org/abs/1503.04169)
