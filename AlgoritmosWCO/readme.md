@@ -13,13 +13,16 @@ Esta carpeta contiene instrucciones y material para el primer módulo del curso,
 - Implementación de Leapfrog trie-join en contexto de grafos RDF [link](https://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf)
 - Otra implementación de algoritmos WCO [link](https://dl.acm.org/doi/pdf/10.1145/3129246)
 - Como mezclar algoritmos WCO con algoritmos clasicos en una BD [link](https://arxiv.org/pdf/1903.02076.pdf)
+- Incorporando algoritmos WCO a una BD usando tries en memoria [link](https://dl.acm.org/doi/pdf/10.14778/3407790.3407797)
 - Visión geométrica de cota AGM y algoritmos sobre quadtrees [link](https://dl.acm.org/doi/pdf/10.1145/3514231)
 - Preprint (puede tener errores) de paper sobre extender cota AGM para consultas de caminos en grafos (subido como recurso arriba)
 - Sobre usar cota AGM en otros contextos (consultando APIs) [link](https://adriansoto.cl/pdf/amw2019.pdf)
-- 
+
 (resto de los papers)
 - Algoritmos WCO para grafos sobre estructuras compactas [link](https://dl.acm.org/doi/pdf/10.1145/3448016.3457256)
 - Extensión cota AGM para consultas con proyección y una serie de otras cosas [link](http://www.cs.ox.ac.uk/files/5024/GLVV_7_11_conjqueries_jacm.pdf)
-- Buen survey sobre extensiones a la cota AGM [link](https://arxiv.org/pdf/1803.09930)
+- Buen survey sobre extensiones a la cota AGM, útil para enfocarse en un tema en particular [link](https://arxiv.org/pdf/1803.09930)
 - Tecnicas para procesar eficientemente consultas con poca ciclicidad [link](https://dl.acm.org/doi/10.1145/2902251.2902309)
+- Enfoque dinamico para el algoritmo de yanakakis (ver recurso arriba)
+- 
 
