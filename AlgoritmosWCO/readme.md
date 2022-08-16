@@ -16,6 +16,7 @@ Esta carpeta contiene instrucciones y material para el primer módulo del curso,
 - Visión geométrica de cota AGM y algoritmos sobre quadtrees [link](https://dl.acm.org/doi/pdf/10.1145/3514231)
 - Preprint (puede tener errores) de paper sobre extender cota AGM para consultas de caminos en grafos (subido como recurso arriba)
 - Sobre usar cota AGM en otros contextos (consultando APIs) [link](https://adriansoto.cl/pdf/amw2019.pdf)
+- 
 (resto de los papers)
 - Algoritmos WCO para grafos sobre estructuras compactas [link](https://dl.acm.org/doi/pdf/10.1145/3448016.3457256)
 - Extensión cota AGM para consultas con proyección y una serie de otras cosas [link](http://www.cs.ox.ac.uk/files/5024/GLVV_7_11_conjqueries_jacm.pdf)
