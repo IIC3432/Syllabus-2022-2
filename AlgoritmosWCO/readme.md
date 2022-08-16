@@ -15,7 +15,7 @@ Esta carpeta contiene instrucciones y material para el primer módulo del curso,
 - Como mezclar algoritmos WCO con algoritmos clasicos en una BD [link](https://arxiv.org/pdf/1903.02076.pdf)
 - Incorporando algoritmos WCO a una BD usando tries en memoria [link](https://dl.acm.org/doi/pdf/10.14778/3407790.3407797)
 - Visión geométrica de cota AGM y algoritmos sobre quadtrees [link](https://dl.acm.org/doi/pdf/10.1145/3514231)
-- Preprint (puede tener errores) de paper sobre extender cota AGM para consultas de caminos en grafos (subido como recurso arriba)
+- Preprint (puede tener errores) de paper (tesis de magister de Tamara Cucumides) sobre extender cota AGM para consultas de caminos en grafos (subido como recurso arriba)
 - Sobre usar cota AGM en otros contextos (consultando APIs) [link](https://adriansoto.cl/pdf/amw2019.pdf)
 
 (resto de los papers)
