@@ -24,7 +24,7 @@ La presentación puede hacerse por uno o más miembros del grupo, y es presencia
 Baeza, Gutiérrez, Sanchez. 
 Leen el paper de Leapfrog trie-join. 
 
-Presentan en 
+Presentan el martes 23. 
 
 ### Grupo 2
 
@@ -37,27 +37,27 @@ Presentan en
 Aguirre, Farías, Hernandez, Lepe. 
 Leen el paper de Leapfrog en bases de datos RDF-SPARQL. 
 
-Presentan en 
+Presentan el 30 de Agosto.  
 
 ### Grupo 4
 
 McIntyre, Vicente, Hernández 
 Leen el paper de algoritmos WCO usando estructuras compactas
 
-Presentan el martes 23. 
+Presentan el martes 30. 
 
 ### Grupo 5
 
 Tirreau, Bustamente, García. 
 Leen el paper de algoritmo WCO con interpretación geométrica. 
 
-Presentan en 
+Presentan el martes 23.  
 
 ### Grupo 6
 Moya, Rioseco, Montero. 
 Leen el paper de combinar planes clasicos de BD relacionales con algoritmos WCO. 
 
-Presentan en 
+Presentan el martes 30.  
 
 ### Grupo 7
 Baboun, Kara, Pinto, Sumonte. 
