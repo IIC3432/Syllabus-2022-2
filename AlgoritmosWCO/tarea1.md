@@ -16,3 +16,58 @@ La presentación puede hacerse por uno o más miembros del grupo, y es presencia
 ### Si tengo dudas? Si no sé como enfoocar la presentación? Si no me decido por un paper? 
 
 ¡Escríbeme! 
+
+## GRUPOS Y TEMAS
+
+### Grupo 1
+
+Baeza, Gutiérrez, Sanchez. 
+Leen el paper de Leapfrog trie-join. 
+
+Presentan en 
+
+### Grupo 2
+
+Escalona, Gómez, Morris. 
+Leen el paper de que aplica esto para consultar APIs.
+
+Presentan en 
+
+### Grupo 3
+Aguirre, Farías, Hernandez, Lepe. 
+Leen el paper de Leapfrog en bases de datos RDF-SPARQL. 
+
+Presentan en 
+
+### Grupo 4
+
+McIntyre, Vicente, Hernández 
+Leen el paper de algoritmos WCO usando estructuras compactas
+
+Presentan el martes 23. 
+
+### Grupo 5
+
+Tirreau, Bustamente, García. 
+Leen el paper de algoritmo WCO con interpretación geométrica. 
+
+Presentan en 
+
+### Grupo 6
+Moya, Rioseco, Montero. 
+Leen el paper de combinar planes clasicos de BD relacionales con algoritmos WCO. 
+
+Presentan en 
+
+### Grupo 7
+Baboun, Kara, Pinto, Sumonte. 
+Leen el paper de algoritmos WCO para grafos. 
+
+Presentan el Martes 23.  
+
+### Grupo 8
+
+Larraín, Bascuñan, Droppelman, Quintana. 
+Leen  
+
+Presentan en 
