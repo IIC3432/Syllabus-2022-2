@@ -31,7 +31,7 @@ Presentan el martes 23.
 Escalona, Gómez, Morris. 
 Leen el paper de que aplica esto para consultar APIs.
 
-Presentan en 
+Presentan el martes 23.
 
 ### Grupo 3
 Aguirre, Farías, Hernandez, Lepe. 
@@ -54,7 +54,7 @@ Leen el paper de algoritmo WCO con interpretación geométrica.
 Presentan el martes 23.  
 
 ### Grupo 6
-Moya, Rioseco, Montero. 
+Arellano, Martínez, Schuwirth. 
 Leen el paper de combinar planes clasicos de BD relacionales con algoritmos WCO. 
 
 Presentan el martes 30.  
@@ -71,3 +71,25 @@ Larraín, Bascuñan, Droppelman, Quintana.
 Leen  
 
 Presentan en 
+
+### Grupo 9
+
+Herrera, Jouanne, Leal. 
+Leen el paper de algoritmos WCO con tries en memoria. 
+
+Presentan el martes 30. 
+
+### Grupo 10
+
+Aubele, Balmaceda, Covacich.
+Leen 
+
+Presentan el martes 30. 
+
+### Grupo 11
+Feliu, Lira, Pizarro, Rebolledo. 
+Leen 
+
+Presentan el martes 30. 
+
+
