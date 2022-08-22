@@ -17,6 +17,10 @@ La presentación puede hacerse por uno o más miembros del grupo, y es presencia
 
 ¡Escríbeme! 
 
+## Cuestionario retroalimentación
+
+Se los doy de vuelta a uds de forma anónima, pido el correo para filtrar el spam. [Ingresa al cuestionario aqui, es una respuesta por grupo](https://docs.google.com/forms/d/e/1FAIpQLSefamaKMagGP00_ipHp_DqIIQbg4t5QL-K9rIIDdhfikxc4rg/viewform?usp=sf_link)
+
 ## GRUPOS Y TEMAS
 
 ### Grupo 1
@@ -86,7 +90,7 @@ Leen
 
 Presentan el martes 30. 
 
-### Grupo 11
+### Grupo 0
 Feliu, Lira, Pizarro, Rebolledo. 
 Leen paper sobre enfoque dinamico para el algoritmo de yanakakis.
 
