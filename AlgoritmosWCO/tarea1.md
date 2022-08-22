@@ -88,7 +88,7 @@ Presentan el martes 30.
 
 ### Grupo 11
 Feliu, Lira, Pizarro, Rebolledo. 
-Leen 
+Leen paper sobre enfoque dinamico para el algoritmo de yanakakis.
 
 Presentan el martes 30. 
 
