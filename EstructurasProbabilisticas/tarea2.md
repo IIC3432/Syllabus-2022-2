@@ -37,8 +37,8 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 
 ### Temas libres
 
-#### E1-E2: Proyecto libre sobre alguna estructura de datos similar, que siga el mismo estilo que lo visto en clases. 
+#### E1-E2: Proyecto libre sobre alguna estructura de datos similar, que siga el mismo estilo que lo visto en clases. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
 
-#### P1-P2: Proyecto libre sobre un pequeño tema de investigación, relacionado con la mejora de algun problema o agregar alguna funcionalidad a alguna de las estructuras vistas en clase. 
+#### P1-P2: Proyecto libre sobre un pequeño tema de investigación, relacionado con la mejora de algun problema o agregar alguna funcionalidad a alguna de las estructuras vistas en clase. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
 
 
