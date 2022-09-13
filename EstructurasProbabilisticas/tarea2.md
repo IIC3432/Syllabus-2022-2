@@ -25,13 +25,13 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 
 #### I3: Averiguar sobre el uso comercial de las estructuras vistas en clases, u otras similares. Es importante que este trabajo verifique sus fuentes, y trabaje con fuentes de distinto tipo. 
 
-### I4: Sketches para reducción de dimensionalidad. Usar diversas técnicas de aprendizaje estadístico que funcionen sobre matrices de baja dimensionalidad. Comparar la capacidad de sketches para reducir la dimensionalidad de matrices, en vez de, por ejemplo, PCA. 
+#### I4: Sketches para reducción de dimensionalidad. Usar diversas técnicas de aprendizaje estadístico que funcionen sobre matrices de baja dimensionalidad. Comparar la capacidad de sketches para reducir la dimensionalidad de matrices, en vez de, por ejemplo, PCA. 
 
 ### Temas de lectura de literatura. 
 
-### L1: Aplicaciones de count-min sketches. Presentar sobre las aplicaciones básicas elaboradas en el paper de Cormode y Mutukrishnan. 
+#### L1: Aplicaciones de count-min sketches. Presentar sobre las aplicaciones básicas elaboradas en el paper de Cormode y Mutukrishnan. 
 
-### L2-L3: Aplicaciones de sketches en el área de aprendizaje de máquina o aprendizaje estadístico. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
+#### L2-L3: Aplicaciones de sketches en el área de aprendizaje de máquina o aprendizaje estadístico. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
 
 ### L4: Uso de sketches para reducir la comunicacion de los joins, basado en [este paper](https://dl.acm.org/doi/pdf/10.1145/2745754.2745779)
 
