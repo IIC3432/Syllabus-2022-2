@@ -33,12 +33,12 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 
 #### L2-L3: Aplicaciones de sketches en el área de aprendizaje de máquina o aprendizaje estadístico. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
 
-### L4: Uso de sketches para reducir la comunicacion de los joins, basado en [este paper](https://dl.acm.org/doi/pdf/10.1145/2745754.2745779)
+#### L4: Uso de sketches para reducir la comunicacion de los joins, basado en [este paper](https://dl.acm.org/doi/pdf/10.1145/2745754.2745779)
 
 ### Temas libres
 
-### E1-E2: Proyecto libre sobre alguna estructura de datos similar, que siga el mismo estilo que lo visto en clases. 
+#### E1-E2: Proyecto libre sobre alguna estructura de datos similar, que siga el mismo estilo que lo visto en clases. 
 
-### P1-P2: Proyecto libre sobre un pequeño tema de investigación, relacionado con la mejora de algun problema o agregar alguna funcionalidad a alguna de las estructuras vistas en clase. 
+#### P1-P2: Proyecto libre sobre un pequeño tema de investigación, relacionado con la mejora de algun problema o agregar alguna funcionalidad a alguna de las estructuras vistas en clase. 
 
 
