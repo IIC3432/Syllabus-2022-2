@@ -4,7 +4,7 @@ Esta tarea debe hacerse en grupos de a 3 personas. Esta vez no se permitirán gr
 
 ### Creación de grupos. 
 
-Un miembro de cada grupo deberá enviarme un corro a más tardar el jueves 15/09 al mediodía. Los grupos serán publicados el jueves por la tarde. 
+Un miembro de cada grupo deberá enviarme un corro a más tardar el jueves 15/09 al mediodía, y los grupos de las personas que no me envíen correo se asignarán al azar. Los grupos serán publicados el jueves por la tarde. 
 
 ### Preferencias. 
 
