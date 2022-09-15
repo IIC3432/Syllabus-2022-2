@@ -45,4 +45,14 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 
 #### P1-P2: Proyecto libre sobre un pequeño tema de investigación, relacionado con la mejora de algun problema o agregar alguna funcionalidad a alguna de las estructuras vistas en clase. Es importante una coordinación entre los dos potenciales grupos trabajando en esto. 
 
+## Tarea 2: grupos. 
 
+#### Grupo 1: Ignacia Baeza, Daniel Leal, Víctor Tirreau
+
+#### Grupo 2: Ignacio Bascuñán, Benjamín Farías, Raimundo Martínez
+
+#### Grupo 3: Alexander Pinto, Julian García, Gabriel Aguirre
+
+#### Grupo 4: Mario Gómez, Lucas Gutiérrez, Fernando Quintana
+
+#### Grupo 5: Francisco Balmaceda, Alvaro Escalona, Carlos Jouanne
