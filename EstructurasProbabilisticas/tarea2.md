@@ -56,3 +56,17 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 #### Grupo 4: Mario Gómez, Lucas Gutiérrez, Fernando Quintana
 
 #### Grupo 5: Francisco Balmaceda, Alvaro Escalona, Carlos Jouanne
+
+#### Grupo 6: Sol Covacich, Sebastián Lira, Nicolás Mc Intyre
+
+#### Grupo 7: Diego Bustamante, Jacinta Herrera, José Baboun
+
+#### Grupo 8: Benjamin Vicente, Juan Schuwirth, José Ignacio Feliú
+
+#### Grupo 9: Lothar Droppelmann, Victor Hernández, 
+
+#### Grupo 10: 
+
+#### Grupo 11: 
+
+#### Grupo 12: 
