@@ -63,10 +63,9 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 
 #### Grupo 8: Benjamin Vicente, Juan Schuwirth, José Ignacio Feliú
 
-#### Grupo 9: Lothar Droppelmann, Victor Hernández, 
+#### Grupo 9: Lothar Droppelmann, Victor Hernández, Nicolás Sumonte
 
-#### Grupo 10: 
+#### Grupo 10: Joaquín Sánchez, Benjamín Pizarro, Bernardita Morris, Juan Cristóbal Hernández
 
-#### Grupo 11: 
+#### Grupo 0: Benjamín Lepe, Rafaela Kara, Hernán Larraín, Felipe Arellano
 
-#### Grupo 12: 
