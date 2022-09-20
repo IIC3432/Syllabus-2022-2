@@ -48,24 +48,33 @@ Su trabajo debe ser presentado en un video de 10 minutos, y deberán subir tambi
 ## Tarea 2: grupos. 
 
 #### Grupo 1: Ignacia Baeza, Daniel Leal, Víctor Tirreau
+Trabajan en tema **I3**. 
 
 #### Grupo 2: Ignacio Bascuñán, Benjamín Farías, Raimundo Martínez
+Trabajan en tema **E1**.
 
 #### Grupo 3: Alexander Pinto, Julian García, Gabriel Aguirre
+Trabajan en tema **L1**.
 
 #### Grupo 4: Mario Gómez, Lucas Gutiérrez, Fernando Quintana
+Trabajan en tema **I4**.
 
 #### Grupo 5: Francisco Balmaceda, Alvaro Escalona, Carlos Jouanne
+Trabajan en tema **L4**.
 
 #### Grupo 6: Sol Covacich, Sebastián Lira, Nicolás Mc Intyre
 
 #### Grupo 7: Diego Bustamante, Jacinta Herrera, José Baboun
+Trabajan en tema **I1**.
 
 #### Grupo 8: Benjamin Vicente, Juan Schuwirth, José Ignacio Feliú
+Trabajan en tema **I3**.
 
 #### Grupo 9: Lothar Droppelmann, Victor Hernández, Nicolás Sumonte
+Trabajan en tema **I2**.
 
 #### Grupo 10: Joaquín Sánchez, Benjamín Pizarro, Bernardita Morris, Juan Cristóbal Hernández
+Trabajan en tema **I4**.
 
 #### Grupo 0: Benjamín Lepe, Rafaela Kara, Hernán Larraín, Felipe Arellano
 
