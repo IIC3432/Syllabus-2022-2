@@ -63,12 +63,13 @@ Trabajan en tema **I4**.
 Trabajan en tema **L4**.
 
 #### Grupo 6: Sol Covacich, Sebastián Lira, Nicolás Mc Intyre
+Trabajan en tema **L2**.
 
 #### Grupo 7: Diego Bustamante, Jacinta Herrera, José Baboun
-Trabajan en tema **I1**.
+Trabajan en tema **L2**.
 
 #### Grupo 8: Benjamin Vicente, Juan Schuwirth, José Ignacio Feliú
-Trabajan en tema **I3**.
+Trabajan en tema **I1**.
 
 #### Grupo 9: Lothar Droppelmann, Victor Hernández, Nicolás Sumonte
 Trabajan en tema **I2**.
