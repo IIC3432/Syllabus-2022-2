@@ -52,4 +52,37 @@ o si acaso el uso de parámetros locales ayuda en este sentido.
 
 #### C1-C3: Ver [aca](https://github.com/thunlp/GNNPapers#applications) una buena lista de aplicaciones. La idea es presentar más de un paper por aplicación, traten que les quede algo redondo. No se pueden compartir una misma aplicacion entre dos grupos. 
 
+## Tarea 3: grupos. 
 
+#### Grupo 1: Benjamín Farías, Víctor Hernández, Benjamín Lepe
+Trabajan en tema . 
+
+#### Grupo 2: Bernardita Morris, Juan Schuwirth y Raimundo Martínez
+Trabajan en tema .
+
+#### Grupo 3: Alexander Pinto, Julian García, Rafaela Kara
+Trabajan en tema .
+
+#### Grupo 4: Gabriel Aguirre, Juan Hernández, Nicolás Mc Intyre
+Trabajan en tema .
+
+#### Grupo 5: Diego Bustamante, Víctor Tirreau y José Baboun
+Trabajan en tema .
+
+#### Grupo 6: Sol Covacich, Ignacia Baeza, José Ignacio Feliú 
+Trabajan en tema .
+
+#### Grupo 7: Benjamin Vicente, Lothar Droppelmann, Joaquín Sánchez
+Trabajan en tema .
+
+#### Grupo 8: Nicolás Sumonte, Benjamín Pizarro, Felipe Arellano
+Trabajan en tema .
+
+#### Grupo 9:  Lucas Gutiérrez, Alvaro Escalona, Hernán Larraín 
+Trabajan en tema .
+
+#### Grupo 10: Fernando Quintana, Carlos Jouanne, Jacinta Herrera
+Trabajan en tema .
+
+#### Grupo 0:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda
+Trabajan en tema .
