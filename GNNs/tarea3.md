@@ -9,7 +9,7 @@ Los grupos serán publicados el mismo martes, antes de clase.
 
 ### Preferencias. 
 
-Cada grupo debe mandar, hasta el miércoles 27/10 a las 20:00, sus tres preferencias de temas. Las preferencias serán asignadas en ese minuto. 
+Cada grupo debe mandar, hasta el miércoles 26/10 a las 20:00, sus tres preferencias de temas. Las preferencias serán asignadas en ese minuto. 
 
 ### Lo que hay que hacer. 
 
@@ -55,7 +55,7 @@ o si acaso el uso de parámetros locales ayuda en este sentido.
 ## Tarea 3: grupos. 
 
 #### Grupo 1: Benjamín Farías, Víctor Hernández, Benjamín Lepe
-Trabajan en tema . 
+Trabajan en tema L1. 
 
 #### Grupo 2: Bernardita Morris, Juan Schuwirth y Raimundo Martínez
 Trabajan en tema .
@@ -67,7 +67,7 @@ Trabajan en tema .
 Trabajan en tema .
 
 #### Grupo 5: Diego Bustamante, Víctor Tirreau y José Baboun
-Trabajan en tema .
+Trabajan en tema L2.
 
 #### Grupo 6: Sol Covacich, José Ignacio Feliú, Fernando Quintana, Carlos Jouanne
 Trabajan en tema .
@@ -76,7 +76,7 @@ Trabajan en tema .
 Trabajan en tema .
 
 #### Grupo 8: Nicolás Sumonte, Benjamín Pizarro, Felipe Arellano
-Trabajan en tema .
+Trabajan en tema C1 (centrado en sistemas recomendadores).
 
 #### Grupo 9:  Lucas Gutiérrez, Alvaro Escalona, Hernán Larraín 
 Trabajan en tema .
