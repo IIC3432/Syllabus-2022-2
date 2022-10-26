@@ -69,7 +69,7 @@ Trabajan en tema .
 #### Grupo 5: Diego Bustamante, Víctor Tirreau y José Baboun
 Trabajan en tema .
 
-#### Grupo 6: Sol Covacich, Ignacia Baeza, José Ignacio Feliú 
+#### Grupo 6: Sol Covacich, José Ignacio Feliú, Fernando Quintana, Carlos Jouanne
 Trabajan en tema .
 
 #### Grupo 7: Benjamin Vicente, Lothar Droppelmann, Joaquín Sánchez
@@ -81,8 +81,9 @@ Trabajan en tema .
 #### Grupo 9:  Lucas Gutiérrez, Alvaro Escalona, Hernán Larraín 
 Trabajan en tema .
 
-#### Grupo 10: Fernando Quintana, Carlos Jouanne, Jacinta Herrera
+#### Grupo 10:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda
 Trabajan en tema .
 
-#### Grupo 0:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda
+#### Grupo 0:  Daniel Leal, Ignacia Baeza, Jacinta Herrera
 Trabajan en tema .
+
