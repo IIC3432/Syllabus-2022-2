@@ -39,7 +39,7 @@ Demostrar si es mejor o peor con el dataset de CORA y los experimentos de clases
 
 #### A2-A3: Implementar algún arreglo que mejore el poder de una GNN, con ciertas garantías teóricas, pero sin escalar a trabajar con pares de nodos. 
 Ya discutimos en clases sobre [Parametros Locales](https://proceedings.neurips.cc/paper/2021/hash/d4d8d1ac7e00e9105775a6b660dd3cbb-Abstract.html), pero hay varios otros: 
-- Sacar nodos con [DropGNNs](https://proceedings.neurips.cc/paper/2021/file/b8b2926bd27d4307569ad119b6025f94-Paper.pdf)
+- Sacar nodos con [DropGNNs](https://proceedings.neurips.cc/paper/2021/file/b8b2926bd27d4307569ad119b6025f94-Paper.pdf) o mas generalmente, [Identificando Subgrafos](https://arxiv.org/pdf/2206.11168.pdf)
 - Iidentificar nodos con [Identity Aware Neural Networks](https://arxiv.org/abs/2101.10320)
 
 ### Temas relacionados con resultados experimentales. 
