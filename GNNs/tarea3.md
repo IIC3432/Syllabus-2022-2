@@ -81,7 +81,7 @@ Trabajan en tema C1 (centrado en sistemas recomendadores).
 #### Grupo 9:  Lucas Gutiérrez, Alvaro Escalona, Hernán Larraín 
 Trabajan en tema .
 
-#### Grupo 10:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda
+#### Grupo 10:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda, Sebastián Lira
 Trabajan en tema .
 
 #### Grupo 0:  Daniel Leal, Ignacia Baeza, Jacinta Herrera
