@@ -50,7 +50,7 @@ o si acaso el uso de parámetros locales ayuda en este sentido.
 
 ### Presentar sobre aplicaciones de GNNs
 
-#### C1-C3: Ver [aca](https://github.com/thunlp/GNNPapers#applications) una buena lista de aplicaciones. La idea es presentar más de un paper por aplicación, traten que les quede algo redondo. No se pueden compartir una misma aplicacion entre dos grupos. 
+#### C1-C4: Ver [aca](https://github.com/thunlp/GNNPapers#applications) una buena lista de aplicaciones. La idea es presentar más de un paper por aplicación, traten que les quede algo redondo. No se pueden compartir una misma aplicacion entre dos grupos. 
 
 ## Tarea 3: grupos. 
 
@@ -61,7 +61,7 @@ Trabajan en tema L1.
 Trabajan en tema .
 
 #### Grupo 3: Alexander Pinto, Julian García, Rafaela Kara
-Trabajan en tema .
+Trabajan en tema C4 (tema pendiente).
 
 #### Grupo 4: Gabriel Aguirre, Juan Hernández, Nicolás Mc Intyre
 Trabajan en tema .
