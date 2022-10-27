@@ -58,7 +58,7 @@ o si acaso el uso de parámetros locales ayuda en este sentido.
 Trabajan en tema L1. 
 
 #### Grupo 2: Bernardita Morris, Juan Schuwirth y Raimundo Martínez
-Trabajan en tema .
+Trabajan en tema L3.
 
 #### Grupo 3: Alexander Pinto, Julian García, Rafaela Kara
 Trabajan en tema C4 (tema pendiente).
