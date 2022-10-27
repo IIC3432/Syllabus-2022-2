@@ -79,7 +79,7 @@ Trabajan en tema .
 Trabajan en tema C1 (centrado en sistemas recomendadores).
 
 #### Grupo 9:  Lucas Gutiérrez, Alvaro Escalona, Hernán Larraín 
-Trabajan en tema .
+Trabajan en tema C3 (visión por computador).
 
 #### Grupo 10:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda, Sebastián Lira
 Trabajan en tema .
