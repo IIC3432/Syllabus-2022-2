@@ -64,7 +64,7 @@ Trabajan en tema L3.
 Trabajan en tema C4 (tema pendiente).
 
 #### Grupo 4: Gabriel Aguirre, Juan Hernández, Nicolás Mc Intyre
-Trabajan en tema .
+Trabajan en tema A2.
 
 #### Grupo 5: Diego Bustamante, Víctor Tirreau y José Baboun
 Trabajan en tema L2.
@@ -82,7 +82,7 @@ Trabajan en tema C1 (centrado en sistemas recomendadores).
 Trabajan en tema C3 (visión por computador).
 
 #### Grupo 10:  Ignacio Bascuñán, Mario Gómez, Francisco Balmaceda, Sebastián Lira
-Trabajan en tema .
+Trabajan en tema A3.
 
 #### Grupo 0:  Daniel Leal, Ignacia Baeza, Jacinta Herrera
 Trabajan en tema A1.
