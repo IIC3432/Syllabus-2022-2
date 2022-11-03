@@ -61,7 +61,7 @@ Trabajan en tema L1.
 Trabajan en tema L3.
 
 #### Grupo 3: Alexander Pinto, Julian García, Rafaela Kara
-Trabajan en tema C4 (tema pendiente).
+Trabajan en tema C4 (Dynamic Graph Generation Networks).
 
 #### Grupo 4: Gabriel Aguirre, Juan Hernández, Nicolás Mc Intyre
 Trabajan en tema A2.
