@@ -73,7 +73,7 @@ Trabajan en tema L2.
 Trabajan en tema C2 (centrado en reinforcement learning).
 
 #### Grupo 7: Benjamin Vicente, Lothar Droppelmann, Joaquín Sánchez
-Trabajan en tema .
+Trabajan en tema B1.
 
 #### Grupo 8: Nicolás Sumonte, Benjamín Pizarro, Felipe Arellano
 Trabajan en tema C1 (centrado en sistemas recomendadores).
