@@ -37,9 +37,11 @@ Cada grupo deberá elegir al menos otros cuatro grupos, y estudiar el trabajo qu
 
 La nota final del curso es por autoevaluación (que yo podría llegar a modificar en casos especiales, pej, alguien que nunca vino, o alguien que se ponga una nota complatemante por debajo de su trabajo)
 
-## Proyecto Final: lista grupos. 
+## Proyecto Final: lista grupos (no quedan cupos para grupos de a 4). 
 
 #### Grupo 0: Diego Bustamante, Víctor Tirreau y José Baboun
+
+#### Grupo 1: Ignacio Bascuñan, Fernando Quintana, Lothar Droppelman y Hernán Larraín. 
 
 
 
