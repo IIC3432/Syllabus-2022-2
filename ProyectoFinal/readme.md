@@ -39,5 +39,8 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 ## Proyecto Final: lista grupos. 
 
+#### Grupo 0: Diego Bustamante, Víctor Tirreau y José Baboun
+
+
 
 
