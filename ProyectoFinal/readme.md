@@ -43,6 +43,8 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 #### Grupo 1: Ignacio Bascuñan, Fernando Quintana, Lothar Droppelman y Hernán Larraín. 
 
+#### Grupo 2: Gabriel Aguirre, Benjamín Farías, Juan Hernández, Benjamín Lepe
+
 
 
 
