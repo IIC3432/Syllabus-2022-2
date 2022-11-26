@@ -39,11 +39,15 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 ## Proyecto Final: lista grupos (no quedan cupos para grupos de a 4). 
 
-#### Grupo 0: Diego Bustamante, Víctor Tirreau y José Baboun
+#### Grupo 0: Diego Bustamante, Víctor Tirreau y José Baboun.
 
 #### Grupo 1: Ignacio Bascuñan, Fernando Quintana, Lothar Droppelman y Hernán Larraín. 
 
-#### Grupo 2: Gabriel Aguirre, Benjamín Farías, Juan Hernández, Benjamín Lepe
+#### Grupo 2: Gabriel Aguirre, Benjamín Farías, Juan Hernández, Benjamín Lepe.
+
+#### Grupo 3: Nicolás Sumonte, Rafaela Kara. 
+
+#### Grupo 4:  Felipe Arellano, Sol Covacich, Raimundo Martinez y Juan Schuwirth.
 
 
 
