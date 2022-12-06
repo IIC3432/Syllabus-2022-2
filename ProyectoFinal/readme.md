@@ -51,4 +51,10 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 #### Grupo 5: José Feloú, Victor Hernándes (buscando un tercer integrante)
 
+#### Grupo 6: Ignacia Baeza, Lucas Gutiérrez
+
+#### Grupo 7: Benjamín Pizarro, Joaquín Sánchez, Bernardita Morris
+
+
+
 
