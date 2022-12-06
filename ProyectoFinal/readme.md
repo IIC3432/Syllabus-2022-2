@@ -57,5 +57,8 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 #### Grupo 8: Daniel Leal, Jacinta Herrera y Carlos Jouanne
 
+#### Grupo 9: Francisco Balmaceda, Julián García, Alexander Pinto
+
+#### Grupo 10: Sebastián Lira, Benjamín Vicente, Nicolas Mc Intyre
 
 
