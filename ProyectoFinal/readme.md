@@ -55,7 +55,7 @@ La nota final del curso es por autoevaluación (que yo podría llegar a modifica
 
 #### Grupo 7: Benjamín Pizarro, Joaquín Sánchez, Bernardita Morris
 
-#### Grupo 8: daniel Leal, Jacinta Herrera y Carlos Jouanne
+#### Grupo 8: Daniel Leal, Jacinta Herrera y Carlos Jouanne
 
 
 
